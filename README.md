@@ -53,7 +53,7 @@ python script.py -i "images/" -o "masked_images/"
 ![Original](images/img1.jpeg)
 
 **Masked Image:**
-![Masked](masked_image/img1.jpeg)
+![Masked](masked_images/img1.jpeg)
 
 # aadhar-mask-ocr
 
