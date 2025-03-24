@@ -50,20 +50,10 @@ python script.py -i "images/" -o "masked_images/"
 
 ## Example Output
 **Original Image:**
-![Original](docs/img.png)
+![Original](images/img1.jpeg)
 
 **Masked Image:**
-![Masked](docs/img.png)
-
-## License
-This project is licensed under the MIT License.
-
-## Contributions
-Feel free to submit issues or pull requests to improve the script!
-
-## Author
-[Your Name] - [GitHub Profile](https://github.com/yourgithub)
-
+![Masked](masked_image/img1.jpeg)
 
 # aadhar-mask-ocr
 
